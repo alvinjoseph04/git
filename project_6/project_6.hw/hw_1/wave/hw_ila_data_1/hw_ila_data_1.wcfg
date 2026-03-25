@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="C:/Users/291914/project_6/project_6.hw/hw_1/wave/hw_ila_data_1/hw_ila_data_1.wdb" id="1">
+         <top_modules>
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <zoom_setting>
+      <ZoomStartTime time="0"></ZoomStartTime>
+      <ZoomEndTime time="769"></ZoomEndTime>
+      <Cursor1Time time="0"></Cursor1Time>
+   </zoom_setting>
+   <column_width_setting>
+      <NameColumnWidth column_width="90"></NameColumnWidth>
+      <ValueColumnWidth column_width="72"></ValueColumnWidth>
+   </column_width_setting>
+   <WVObjectSize size="12" />
+   <wave_markers>
+   </wave_markers>
+   <wvobject fp_name="design_3_i/system_ila_0/inst/probe0" type="array">
+      <obj_property name="DisplayName">label</obj_property>
+      <obj_property name="ElementShortName">design_3_i/system_ila_0/inst/probe0[0:0]</obj_property>
+      <obj_property name="ObjectShortName">probe0[0:0]</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+      <obj_property name="label">ahblite_axi_bridge_0_s_ahb_hready_out</obj_property>
+      <obj_property name="LABELRADIX">true</obj_property>
+      <obj_property name="WaveformStyle">STYLE_DIGITAL</obj_property>
+   </wvobject>
+   <wvobject fp_name="design_3_i/system_ila_0/inst/SLOT_0_AHBLITE_haddr" type="array">
+      <obj_property name="DisplayName">FullPathName</obj_property>
+      <obj_property name="ElementShortName">design_3_i/system_ila_0/inst/SLOT_0_AHBLITE_haddr[31:0]</obj_property>
+      <obj_property name="ObjectShortName">SLOT_0_AHBLITE_haddr[31:0]</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+      <obj_property name="LABELRADIX">true</obj_property>
+      <obj_property name="WaveformStyle">STYLE_DIGITAL</obj_property>
+   </wvobject>
+   <wvobject fp_name="design_3_i/system_ila_0/inst/SLOT_0_AHBLITE_hburst" type="array">
+      <obj_property name="DisplayName">FullPathName</obj_property>
+      <obj_property name="ElementShortName">design_3_i/system_ila_0/inst/SLOT_0_AHBLITE_hburst[2:0]</obj_property>
+      <obj_property name="ObjectShortName">SLOT_0_AHBLITE_hburst[2:0]</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+      <obj_property name="LABELRADIX">true</obj_property>
+      <obj_property name="WaveformStyle">STYLE_DIGITAL</obj_property>
+   </wvobject>
+   <wvobject fp_name="design_3_i/system_ila_0/inst/SLOT_0_AHBLITE_hmastlock" type="logic">
+      <obj_property name="DisplayName">FullPathName</obj_property>
+      <obj_property name="ElementShortName">design_3_i/system_ila_0/inst/SLOT_0_AHBLITE_hmastlock</obj_property>
+      <obj_property name="ObjectShortName">SLOT_0_AHBLITE_hmastlock</obj_property>
+      <obj_property name="LABELRADIX">true</obj_property>
+      <obj_property name="WaveformStyle">STYLE_DIGITAL</obj_property>
+   </wvobject>
+   <wvobject fp_name="design_3_i/system_ila_0/inst/SLOT_0_AHBLITE_hprot" type="array">
+      <obj_property name="DisplayName">FullPathName</obj_property>
+      <obj_property name="ElementShortName">design_3_i/system_ila_0/inst/SLOT_0_AHBLITE_hprot[3:0]</obj_property>
+      <obj_property name="ObjectShortName">SLOT_0_AHBLITE_hprot[3:0]</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+      <obj_property name="LABELRADIX">true</obj_property>
+      <obj_property name="WaveformStyle">STYLE_DIGITAL</obj_property>
+   </wvobject>
+   <wvobject fp_name="design_3_i/system_ila_0/inst/SLOT_0_AHBLITE_hrdata" type="array">
+      <obj_property name="DisplayName">FullPathName</obj_property>
+      <obj_property name="ElementShortName">design_3_i/system_ila_0/inst/SLOT_0_AHBLITE_hrdata[31:0]</obj_property>
+      <obj_property name="ObjectShortName">SLOT_0_AHBLITE_hrdata[31:0]</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+      <obj_property name="LABELRADIX">true</obj_property>
+      <obj_property name="WaveformStyle">STYLE_DIGITAL</obj_property>
+   </wvobject>
+   <wvobject fp_name="design_3_i/system_ila_0/inst/SLOT_0_AHBLITE_hready" type="logic">
+      <obj_property name="DisplayName">FullPathName</obj_property>
+      <obj_property name="ElementShortName">design_3_i/system_ila_0/inst/SLOT_0_AHBLITE_hready</obj_property>
+      <obj_property name="ObjectShortName">SLOT_0_AHBLITE_hready</obj_property>
+      <obj_property name="LABELRADIX">true</obj_property>
+      <obj_property name="WaveformStyle">STYLE_DIGITAL</obj_property>
+   </wvobject>
+   <wvobject fp_name="design_3_i/system_ila_0/inst/SLOT_0_AHBLITE_hsize" type="array">
+      <obj_property name="DisplayName">FullPathName</obj_property>
+      <obj_property name="ElementShortName">design_3_i/system_ila_0/inst/SLOT_0_AHBLITE_hsize[2:0]</obj_property>
+      <obj_property name="ObjectShortName">SLOT_0_AHBLITE_hsize[2:0]</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+      <obj_property name="LABELRADIX">true</obj_property>
+      <obj_property name="WaveformStyle">STYLE_DIGITAL</obj_property>
+   </wvobject>
+   <wvobject fp_name="design_3_i/system_ila_0/inst/SLOT_0_AHBLITE_hresp" type="logic">
+      <obj_property name="DisplayName">FullPathName</obj_property>
+      <obj_property name="ElementShortName">design_3_i/system_ila_0/inst/SLOT_0_AHBLITE_hresp</obj_property>
+      <obj_property name="ObjectShortName">SLOT_0_AHBLITE_hresp</obj_property>
+      <obj_property name="LABELRADIX">true</obj_property>
+      <obj_property name="WaveformStyle">STYLE_DIGITAL</obj_property>
+   </wvobject>
+   <wvobject fp_name="design_3_i/system_ila_0/inst/SLOT_0_AHBLITE_htrans" type="array">
+      <obj_property name="DisplayName">FullPathName</obj_property>
+      <obj_property name="ElementShortName">design_3_i/system_ila_0/inst/SLOT_0_AHBLITE_htrans[1:0]</obj_property>
+      <obj_property name="ObjectShortName">SLOT_0_AHBLITE_htrans[1:0]</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+      <obj_property name="LABELRADIX">true</obj_property>
+      <obj_property name="WaveformStyle">STYLE_DIGITAL</obj_property>
+   </wvobject>
+   <wvobject fp_name="design_3_i/system_ila_0/inst/SLOT_0_AHBLITE_hwdata" type="array">
+      <obj_property name="DisplayName">FullPathName</obj_property>
+      <obj_property name="ElementShortName">design_3_i/system_ila_0/inst/SLOT_0_AHBLITE_hwdata[31:0]</obj_property>
+      <obj_property name="ObjectShortName">SLOT_0_AHBLITE_hwdata[31:0]</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+      <obj_property name="LABELRADIX">true</obj_property>
+      <obj_property name="WaveformStyle">STYLE_DIGITAL</obj_property>
+   </wvobject>
+   <wvobject fp_name="design_3_i/system_ila_0/inst/SLOT_0_AHBLITE_hwrite" type="logic">
+      <obj_property name="DisplayName">FullPathName</obj_property>
+      <obj_property name="ElementShortName">design_3_i/system_ila_0/inst/SLOT_0_AHBLITE_hwrite</obj_property>
+      <obj_property name="ObjectShortName">SLOT_0_AHBLITE_hwrite</obj_property>
+      <obj_property name="LABELRADIX">true</obj_property>
+      <obj_property name="WaveformStyle">STYLE_DIGITAL</obj_property>
+   </wvobject>
+</wave_config>
